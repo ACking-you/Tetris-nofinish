@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLion Project/Tetris/cse.h
+
+D:/CLion Project/Tetris/main.c
+stdio.h
+-
+cse.h
+D:/CLion Project/Tetris/cse.h
+
